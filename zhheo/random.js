@@ -1,1 +1,0 @@
-var posts=["2023/10/09/你好/","2023/10/09/关于/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
