@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+        function checkDomain() {
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", "https://vision.v6.navy", true);
+            xhr.onload = function() {
+                if (xhr.status == 200) {
+                    window.location.href = "https://vision.v6.navy";
+                } else {
+                    window.location.href = "https://www.maxh.ltd";
+                }
+            };
+            xhr.onerror = function() {
+                window.location.href = "https://www.maxh.ltd";
+            };
+            xhr.send();
+        }
+    </script>
+</head>
+<body onload="checkDomain()">
+    <h1>正在检查域名访问情况...</h1>
+</body>
+</html>
