@@ -1,0 +1,73 @@
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/* 全局字体配置 - 优先使用仿宋字体 */  
+body {  
+  font-family: "仿宋", "FangSong", "NSimSun", "SimSun", serif;  
+  line-height: 1.6;  
+  color: #333;  
+  max-width: 1200px;  
+  margin: 0 auto; /* 页面整体居中 */  
+  padding: 20px;  
+}  
+
+h1 {  
+  text-align: center;  
+  color: #003366;  
+  margin: 30px 0;  
+}  
+
+p {  
+  text-align: center; /* 正文居中 */  
+  margin-bottom: 30px;  
+}  
+
+/* 二维码容器样式 */  
+.qr-code-container {  
+  display: flex;  
+  flex-wrap: wrap;  
+  justify-content: center; /* 容器内元素居中排列 */  
+  margin: 20px auto; /* 容器自身居中 */  
+  max-width: 900px; /* 限制最大宽度 */  
+}  
+
+/* 单个二维码项样式 */  
+.qr-code-item {  
+  margin: 15px;  
+  text-align: center; /* 图片和标签居中对齐 */  
+  transition: transform 0.3s ease;  
+}  
+
+.qr-code-item:hover {  
+  transform: translateY(-5px);  
+}  
+
+/* 二维码图片样式 */  
+.qr-code-image {  
+  width: 200px;  
+  height: 200px;  
+  object-fit: cover;  
+  border-radius: 5px;  
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);  
+  border: 1px solid #eee;  
+}  
+
+/* 二维码标签样式 */  
+.qr-code-label {  
+  margin-top: 12px;  
+  font-weight: bold;  
+  color: #333;  
+  font-family: "仿宋", "FangSong", "NSimSun", "SimSun", serif;  
+  font-size: 18px;  
+}  
+
+/* 响应式布局 - 手机端纵向排列 */  
+@media (max-width: 768px) {  
+  .qr-code-container {  
+    flex-direction: column;  
+    align-items: center; /* 垂直排列时保持居中 */  
+  }  
+  .qr-code-item {  
+    margin: 20px 0;  
+  }  
+  h1 {  
+    font-size: 24px;  
+  }  
+}  
