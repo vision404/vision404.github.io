@@ -1,0 +1,24 @@
+<%- partial('header') %>
+
+<div class="message-board">
+  <h1><%= page.title %></h1>
+  <p><%= page.content %></p>
+
+  <!-- 留言区 -->
+  <div id="comment-section">
+    <!-- 这里可以嵌入评论系统，例如 Valine、Disqus 或其他 -->
+    <script src="https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js"></script>
+    <div id="vcomments"></div>
+    <script>
+      new Valine({
+        el: '#vcomments',
+        appId: '你的LeanCloud App ID',
+        appKey: '你的LeanCloud App Key',
+        placeholder: '在这里留下你的留言吧！',
+        path: window.location.pathname
+      });
+    </script>
+  </div>
+</div>
+
+<%- partial('footer') %>
