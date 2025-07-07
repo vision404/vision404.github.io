@@ -1,6 +1,6 @@
 <link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/* 全局字体配置 - 优先使用仿宋字体 */  
 body {  
-  font-family: "仿宋", "FangSong", "NSimSun", "SimSun", serif;  
+  font-family: "FS", "FangSong", "NSimSun", "SimSun", serif;  
   line-height: 1.6;  
   color: #333;  
   max-width: 1200px;  
