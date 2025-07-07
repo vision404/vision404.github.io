@@ -7,7 +7,11 @@ body {
   margin: 0 auto; /* 页面整体居中 */  
   padding: 20px;  
 }  
-
+@font-face {
+  font-family: "FS";
+  src: url("../fonts/FS.ttf") format("truetype");
+  font-weight: 400;
+}
 h1 {  
   text-align: center;  
   color: #003366;  
