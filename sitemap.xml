@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vision404.github.io/hcp/ticket.html</loc>
+    
+    <lastmod>2025-07-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://vision404.github.io/2025/07/07/2025%E5%B9%B47%E6%9C%887%E6%97%A5%E6%97%A9%E6%8A%A5/</loc>
     
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-07-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision404.github.io/2023/10/25/%E7%94%98%E8%82%83%E4%BF%A1%E6%98%93%E8%B4%B7-%E9%99%87%E4%BF%A1%E9%80%9A/</loc>
+    
+    <lastmod>2025-07-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -134,6 +152,13 @@
   
   <url>
     <loc>https://vision404.github.io/tags/about/</loc>
+    <lastmod>2025-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision404.github.io/tags/%E4%BF%A1%E6%98%93%E8%B4%B7/</loc>
     <lastmod>2025-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
