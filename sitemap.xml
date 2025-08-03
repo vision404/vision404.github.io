@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vision404.github.io/2023/12/01/Armbian%E8%AE%BE%E7%BD%AE%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86/</loc>
+    
+    <lastmod>2025-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://vision404.github.io/2023/10/09/%E5%85%B3%E4%BA%8E/</loc>
     
     <lastmod>2025-08-03</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://vision404.github.io/2023/10/25/%E7%94%98%E8%82%83%E4%BF%A1%E6%98%93%E8%B4%B7-%E9%99%87%E4%BF%A1%E9%80%9A/</loc>
-    
-    <lastmod>2025-08-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision404.github.io/2023/12/01/Armbian%E8%AE%BE%E7%BD%AE%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86/</loc>
     
     <lastmod>2025-08-03</lastmod>
     
