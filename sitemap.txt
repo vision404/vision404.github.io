@@ -1,3 +1,4 @@
+https://vision404.github.io/2025/08/07/Mysql%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AF%BC%E5%85%A5502%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3/
 https://vision404.github.io/2023/12/01/Armbian%E8%AE%BE%E7%BD%AE%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86/
 https://vision404.github.io/2023/10/09/%E5%85%B3%E4%BA%8E/
 https://vision404.github.io/2023/10/12/%E5%86%9C%E8%A1%8C%E5%B8%B8%E7%94%A8%E4%BA%8C%E7%BB%B4%E7%A0%81/
@@ -17,10 +18,13 @@ https://vision404.github.io/musics/index.html
 https://vision404.github.io/musics/index-1.html
 https://vision404.github.io/2023/10/09/%E4%BD%A0%E5%A5%BD/
 https://vision404.github.io/
-https://vision404.github.io/tags/news/
 https://vision404.github.io/tags/new/
+https://vision404.github.io/tags/news/
 https://vision404.github.io/tags/Armbian/
 https://vision404.github.io/tags/%E4%BB%A3%E7%90%86/
+https://vision404.github.io/tags/Mysql/
+https://vision404.github.io/tags/phpmyadmin/
+https://vision404.github.io/tags/502-Bad-Gateway/
 https://vision404.github.io/tags/about/
 https://vision404.github.io/tags/Welcome/
 https://vision404.github.io/tags/ABC/
